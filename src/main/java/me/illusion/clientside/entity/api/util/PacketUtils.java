@@ -7,7 +7,6 @@ import com.comphenix.protocol.events.PacketContainer;
 import me.illusion.clientside.entity.api.ClientsideEntity;
 import me.illusion.clientside.entity.api.ClientsideLivingEntity;
 import me.illusion.clientside.entity.api.enums.AnimationEnum;
-import net.minecraft.server.v1_16_R3.PacketPlayOutAnimation;
 import org.bukkit.Location;
 import org.bukkit.entity.Player;
 
